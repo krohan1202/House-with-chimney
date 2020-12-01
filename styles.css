@@ -554,3 +554,11 @@ body {
     opacity: 0;
   }
 }
+
+#snowcap {
+  position: absolute;
+  width: 90px;
+  height: 55px;
+  top: 44%;
+  left: -1.4%;
+}
