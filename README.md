@@ -1,4 +1,4 @@
-# House-with-chimney
+# House-with-chimney smoke
 
 Smoke coming out of chimney in html &amp; css
 
